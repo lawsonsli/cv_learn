@@ -17,3 +17,9 @@ use the mouse to smear the woman, it looks like
 press space (must on the image window not the cmd window), the program will fix it and display.
 
 ![golf_result](./bin/golf_result.png)
+
+## Other Pictures
+![](./res/panorama_mask.png)
+![](./res/panorama_result.png)
+
+There are many pictures that this program cannot fix well. (Literally, it means most pictures.)
