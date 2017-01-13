@@ -1,12 +1,12 @@
 # image-completion
 a C++ implementation of image completion with Criminisi algorithm
 
-dependency: OpenCV
+dependency: **OpenCV**
 
-algorithm: Criminisi algorithm
+algorithm: **Criminisi algorithm**
 
 ## Result
-in bin file directory, run demo.exe. Input the `golf.png` and enter you will see 
+in bin file directory, run `demo.exe`. Input the `golf.png` and enter you will see 
 
 ![golf](./bin/golf.png)
 
@@ -22,4 +22,4 @@ press space (must on the image window not the cmd window), the program will fix 
 ![](./res/panorama_mask.png)
 ![](./res/panorama_result.png)
 
-There are many pictures that this program cannot fix well. (Literally, it means most pictures.)
+There are many pictures that this program cannot fix well. (Literally, it means **most** pictures in **most** cases.)
