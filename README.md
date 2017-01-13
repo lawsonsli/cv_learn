@@ -23,12 +23,5 @@ press space (must on the image window not the cmd window), the program will fix 
 <img src="./res/sky.png" width = "60%"/>
 <img src="./res/beach.png" width = "60%"/>
 <img src="./res/fence.png" width = "60%"/>
-![](./res/panorama.png)
-
-![](./res/sky.png)
-
-![](./res/beach.png)
-
-![](./res/fence.png)
 
 There are many pictures that this program cannot fix well. (Literally, it means **most** pictures in **most** cases.)
