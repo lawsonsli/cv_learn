@@ -14,7 +14,7 @@ use the mouse to smear the woman, it looks like
 
 ![golf_ruined](./bin/golf_mask.png)
 
-press space (must on the image window not the cmd window), the program will fix it and display. The woman disappeaed. The program used the surrounding infomation to complete the blank.
+press space (must on the image window not the cmd window), the program will fix it and display. The woman disappeared. The program used the surrounding infomation to complete the blank.
 
 ![golf_result](./bin/golf_result.png)
 
