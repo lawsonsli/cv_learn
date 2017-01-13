@@ -19,7 +19,9 @@ press space (must on the image window not the cmd window), the program will fix 
 ![golf_result](./bin/golf_result.png)
 
 ## Other Pictures
-![](./res/panorama_mask.png)
-![](./res/panorama_result.png)
+![](./res/panorama.png)
+![](./res/sky.png)
+![](./res/beach.png)
+![](./res/fence.png)
 
 There are many pictures that this program cannot fix well. (Literally, it means **most** pictures in **most** cases.)
