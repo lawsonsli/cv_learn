@@ -16,7 +16,7 @@ void instruc()
 	printf("you can use the mouse to get the inpaint area white,\nand press space to get it fixed\n");
 	//printf("when it has fixed 100 point, it will pause until you press any key to continue\n");
 }
-//Êó±êÑ¡Çø
+
 Point prevPt;
 static void onMouse(int event, int x, int y, int flags, void* )
 {
@@ -61,9 +61,9 @@ int main ()
 		char c = (char)waitKey();
 		if(c == ' ')
 		{
-			 imwrite("ruined.png", in.des);
-	         in.Process();
-			 break;
+			imwrite("ruined.png", in.des);
+	         	in.Process();
+			break;
 		}
 	}
 
